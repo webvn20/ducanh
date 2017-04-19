@@ -1,0 +1,320 @@
+    html body{
+        background-color: #fff;
+    }
+    body .header.style11 .block-mini-cart::after{
+        border-bottom-color: #fff;
+    }
+    body a:hover,
+    body a:focus,
+    body a:active,
+    body.woocommerce .summary .yith-wcwl-add-to-wishlist .show a:hover,
+    body.woocommerce .summary .compare:hover,
+    body.woocommerce .woocommerce-breadcrumb a:hover,
+    body .blog-list .blog-list-wapper ul li .readmore a,
+    body .count-down-time2 .box-count,
+    body .trending .trending-product li .product-price,
+    body .hot-deals-box .hot-deals-tab .hot-deals-tab-box .nav-tab li.active>a,
+    body .lasttest-blog11 .item-blog .readmore,
+    body .footer4.style2 .social-link .fa:hover,
+    .option11.hot-cat-section11 .hot-cat-9 .cat-item:hover,
+    .option11.hot-cat-section11 .hot-cat-9 .cat-item:hover .cat-title a,
+    .footer4 .social-link a:hover .fa,
+    .header.style14 .navigation-main-menu>li:hover>a, 
+    .header.style14 .navigation-main-menu>li.active>a,
+    .footer5 .social-link a:hover .fa,
+    .footer5 .address-list .tit-name,
+    .footer5 a:hover,
+    .option-14 .block-deal .title,
+    .option12.section-blog-12 .blog12 .blog-title a:hover,
+    body .block-deal .title,
+    .service4 .service-title a:hover,
+    .footer5 .footer-coppyright{
+        color: #ff3366
+    }
+    body .main-header .header-search-box .form-inline .btn-search,
+    body .main-header .shopping-cart-box a.cart-link:after,
+    body .cart-block .cart-block-content .cart-buttons a.btn-check-out,
+    body .main-bg,
+    body .box-vertical-megamenus .vertical-menu-list>li:hover,
+    body .megamenu .widget .widgettitle:before,
+    body .megamenu .widget .widgettitle:before,
+    body .owl-controls .owl-prev:hover, 
+    body .owl-controls .owl-next:hover,
+    body .product-list li .quick-view a:hover,
+    body .product-list li .quick-view a:hover,
+    body .scroll_top:hover,
+    body .cate-box .cate-link:hover,
+    body #footer2.footer3 .mailchimp-wrapper .mailchimp-form .mailchimp-submit,
+    body.woocommerce div.product form.cart .button,
+    body.woocommerce .summary .yith-wcwl-add-to-wishlist .show a:hover:before,
+    body.woocommerce .summary .compare:hover:before,
+    body.woocommerce #respond input#submit:hover, 
+    body.woocommerce a.button:hover, 
+    body.woocommerce button.button:hover, 
+    body.woocommerce input.button:hover,
+    body .display-product-option li.selected span, 
+    body .display-product-option li:hover span,
+    body .nav-links a:hover, 
+    body .nav-links .current,
+    body .product-list.list .add-to-cart,
+    body.woocommerce .widget_price_filter .price_slider_wrapper .ui-widget-content,
+    body .owl-controls .owl-dots .owl-dot.active,
+    body .products-block .link-all,
+    body .widget_kt_on_sale .product-list li .add-to-cart,
+    body .woocommerce #respond input#submit.alt, 
+    body .woocommerce a.button.alt, 
+    body .woocommerce button.button.alt, 
+    body .woocommerce input.button.alt,
+    body .woocommerce #respond input#submit:hover, 
+    body .woocommerce a.button:hover, 
+    body .woocommerce button.button:hover, 
+    body .woocommerce input.button:hover,
+    body .woocommerce #respond input#submit.alt:hover, 
+    body .woocommerce a.button.alt:hover, 
+    body .woocommerce button.button.alt:hover, 
+    body .woocommerce input.button.alt:hover,
+    body .ui-selectmenu-menu .ui-state-hover, 
+    body .ui-selectmenu-menu .ui-widget-content .ui-selectmenu-menu .ui-state-hover, 
+    body .ui-selectmenu-menu .ui-widget-header, 
+    body .ui-selectmenu-menu .ui-state-hover, 
+    body .ui-selectmenu-menu .ui-state-focus, 
+    body .ui-selectmenu-menu .ui-widget-content .ui-state-focus, 
+    body .ui-selectmenu-menu .ui-widget-header .ui-state-focus,
+    body .trending .trending-title,
+    body .hot-deals-box .hot-deals-tab .hot-deals-title,
+    body .block-popular-cat .more,
+    body .block-popular-cat .sub-categories>ul>li>a:before,
+    body .hot-deals-box .hot-deals-tab .box-count-down .box-count:before,
+    body .products .group-tool-button a:hover, 
+    body .products .group-tool-button a.compare:hover,
+    body .option7 .products .group-tool-button a:hover, 
+    body .option7 .products .group-tool-button a.compare:hover, 
+    body .option7 .products .search:hover,
+    body .woocommerce div.product form.cart .button,
+    body .banner-text .banner-button:hover,
+    body .products-style8 .add-to-cart:hover,
+    body .products-style8 .product.compare-button .compare:hover,
+    body .products-style8 .yith-wcwl-add-to-wishlist>div:hover,
+    body .lock-boock-button a:hover,
+    body .block-collections .collection-list .info .collection-button a:hover,
+    body .block-blogs .blog-list-wapper .owl-controls .owl-prev:hover, 
+    body .block-blogs .blog-list-wapper .owl-controls .owl-next:hover,
+    body .block-mini-cart,
+    body .footer4 .mailchimp-form .mailchimp-submit,
+    body .section-band-logo.style2 .owl-controls .owl-prev:hover, 
+    body .section-band-logo.style2 .owl-controls .owl-next:hover,
+    body .option12.section-blog-12 .owl-controls .owl-prev:hover, 
+    body .option12.section-blog-12 .owl-controls .owl-next:hover,
+    .block-new-product12 .owl-controls .owl-prev:hover, 
+    .block-new-product12 .owl-controls .owl-next:hover,
+    .option12.block-hotdeal-week .owl-controls .owl-prev:hover, 
+    .option12.block-hotdeal-week .owl-controls .owl-next:hover,
+    .option12.block-hotdeal-week .add-to-cart,
+    .option12.block-hotdeal-week .add-to-cart:hover,
+    .option12.block-hotdeal-week .yith-wcwl-add-to-wishlist:hover,
+    .option12.block-hotdeal-week .compare-button:hover,
+    .option12.section-blog-12 .blog12 .date,
+    .header.style11 .block-mini-cart .cart-link .icon .count,
+    html body .footer4.style2 .mailchimp-form .mailchimp-submit:hover,
+    body .block-mini-cart-9 .cart-link .count,
+    .header.style13 .header-search-inner form .btn-search,
+    .main-menu-style13 .navigation-main-menu>li>a:before,
+    body .mobile-navigation,
+    .header.style14 .navigation-main-menu>li>a:before,
+    .block-minicart14 .cart-link .count,
+    .footer5 .widget_kt_mailchimp .mailchimp-submit,
+    .footer5 .tagcloud a:hover,
+    .block-testimonials3 .owl-controls .owl-dots .owl-dot.active,
+    .product-style4 .yith-wcwl-add-to-wishlist .yith-wcwl-add-button:hover, 
+    .product-style4 .yith-wcwl-add-to-wishlist .yith-wcwl-wishlistaddedbrowse:hover, 
+    .product-style4 .yith-wcwl-add-to-wishlist .yith-wcwl-wishlistexistsbrowse:hover,
+    .product-style4 .compare-button:hover,
+    .product-style4 .yith-wcqv-button:hover,
+    .product-style4 .product-new,
+    .product-style4 .add_to_cart_button:hover, 
+    .product-style4 .added_to_cart:hover,
+    .option-13.tab-product-13 .nav-tab li a:after,
+    .option-13 .product-style3 .yith-wcwl-add-button:hover, 
+    .option-13 .product-style3 .compare-button:hover, 
+    .option-13 .product-style3 .search:hover,
+    .option-13 .owl-controls .owl-prev:hover, 
+    .option-13 .owl-controls .owl-next:hover,
+    .option-13.block-top-brands .head .title,
+    .option-13 .product-style3 .add-to-cart:hover a,
+    .option-13.block-top-brands .bx-wrapper .bx-controls-direction a:hover,
+    .block-testimonials3 .owl-controls .owl-dots .owl-dot.active,
+    .option-14.block-static ul.list li .group-button-control .yith-wcwl-add-to-wishlist:hover,
+    .option-14.block-static ul.list li .group-button-control .compare-button a:hover,
+    .option-14.block-static ul.list li .group-button-control .search.yith-wcqv-button:hover,
+    .option-14.block-static ul.list .group-button-control .add-to-cart a,
+    .option-14.block-static .owl-controls .owl-prev:hover, 
+    .option-14.block-static .owl-controls .owl-next:hover,
+    .option-14 .block-deal .group-button-control .add-to-cart a,
+    .option-14 .block-deal .yith-wcwl-add-to-wishlist:hover,
+     body .block-deal .add-to-cart a,
+    .product-style4 .add_to_cart_button:hover, .product-style4 .added_to_cart:hover,
+    .option-14.block-top-brands2 .brand-products .owl-controls .owl-prev:hover, 
+    .option-14.block-top-brands2 .brand-products .owl-controls .owl-next:hover,
+    .option-14.block-top-brands2 .list-brands .owl-controls .owl-prev:hover, 
+    .option-14.block-top-brands2 .list-brands .owl-controls .owl-next:hover,
+    .block-tab-category14 .box-tabs li a::after,
+    body .widget_product_tag_cloud .tagcloud a:hover,
+    .block-deal .yith-wcwl-add-to-wishlist .yith-wcwl-add-button:hover,
+    .block-deal .yith-wcwl-add-to-wishlist .yith-wcwl-wishlistaddedbrowse a:hover,
+    .block-deal .yith-wcwl-add-to-wishlist .yith-wcwl-wishlistexistsbrowse a:hover
+    {
+        background-color: #ff3366;
+    }
+
+    body .box-vertical-megamenus .vertical-menu-content,
+    body .popular-tabs .nav-tab li:hover, 
+    body .popular-tabs .nav-tab li.active,
+    body .latest-deals .latest-deal-content,
+    body .brand-showcase .brand-showcase-title,
+    body .group-title span,
+    body #footer2.footer3,
+    body .view-product-list .page-title span,
+    body .page-heading span.page-heading-title,
+    body .count-down-time2 .box-count,
+    body .option3 .main-header .header-search-box .form-inline,
+    body .banner-text .banner-button:hover,
+    body .products-style8 .add-to-cart:hover,
+    body .products-style8 .product.compare-button .compare:hover,
+    body .products-style8 .yith-wcwl-add-to-wishlist>div:hover,
+    body .lock-boock-button a:hover,
+    body .block-collections .collection-list .info .collection-button a:hover,
+    body .block-loock-bocks .owl-controls .owl-next:hover, 
+    body .block-loock-bocks .owl-controls .owl-prev:hover,
+    body .block-testimonials .owl-controls .owl-prev:hover, 
+    body .block-testimonials .owl-controls .owl-next:hover,
+    body .block-blogs .blog-list-wapper .owl-controls .owl-prev:hover, 
+    body .block-blogs .blog-list-wapper .owl-controls .owl-next:hover,
+    body .block-manufacturer-logo .owl-controls .owl-prev:hover, 
+    body .block-manufacturer-logo .owl-controls .owl-next:hover,
+    body .section-band-logo.style2 .owl-controls .owl-prev:hover, 
+    body .section-band-logo.style2 .owl-controls .owl-next:hover,
+    body .option12.section-blog-12 .owl-controls .owl-prev:hover, 
+    body .option12.section-blog-12 .owl-controls .owl-next:hover,
+    .block-new-product12 .owl-controls .owl-prev:hover, 
+    .block-new-product12 .owl-controls .owl-next:hover,
+    .option12.block-hotdeal-week .owl-controls .owl-prev:hover, 
+    .option12.block-hotdeal-week .owl-controls .owl-next:hover,
+    body .vertical-menu-list .mega-group-header span,
+    body .footer4.style2 .social-link .fa:hover,
+    .header.style13 .header-search-inner form,
+    .footer4 .social-link a:hover .fa,
+    .footer5 .social-link a:hover .fa,
+    .footer5 .tagcloud a:hover,
+    .option-13 .owl-controls .owl-prev:hover, 
+    .option-13 .owl-controls .owl-next:hover,
+    .option-13.block-top-brands .list-brand .item:hover, 
+    .option-13.block-top-brands .list-brand .item.active,
+    .option-13.block-top-brands .bx-wrapper .bx-controls-direction a:hover,
+     body .block-testimonials3 .owl-controls .owl-dots .owl-dot,
+    .block-testimonials3 .owl-controls .owl-dots .owl-dot.active,
+    .product-style4:hover,
+    .product-style4 .yith-wcwl-add-to-wishlist .yith-wcwl-add-button:hover, 
+    .product-style4 .yith-wcwl-add-to-wishlist .yith-wcwl-wishlistaddedbrowse:hover, 
+    .product-style4 .yith-wcwl-add-to-wishlist .yith-wcwl-wishlistexistsbrowse:hover,
+    .product-style4 .compare-button:hover,
+    .product-style4 .yith-wcqv-button:hover,
+    .option-14.block-static ul.list li .group-button-control .yith-wcwl-add-to-wishlist:hover,
+    .option-14.block-static ul.list li .group-button-control .compare-button a:hover,
+    .option-14.block-static ul.list li .group-button-control .search.yith-wcqv-button:hover,
+    .option-14.block-static ul.list .group-button-control .add-to-cart a,
+    .option-14.block-static .block-static-products ul.list li:hover .product-thumb,
+    .option-14 .block-deal .yith-wcwl-add-to-wishlist:hover,
+    
+    .option-14.block-static .owl-controls .owl-prev:hover, 
+    .option-14.block-top-brands2 .brand-products .owl-controls .owl-prev:hover, 
+    .option-14.block-top-brands2 .brand-products .owl-controls .owl-next:hover,
+    .option-14.block-top-brands2 .list-brands .owl-controls .owl-prev:hover, 
+    .option-14.block-top-brands2 .list-brands .owl-controls .owl-next:hover,
+    .option-14.block-static .owl-controls .owl-prev:hover, 
+    .option-14.block-static .owl-controls .owl-next:hover,
+    .option-14.block-top-brands2 .list-brands a.active img,
+    .option-14.block-top-brands2 .list-brands a:hover img,
+     body .widget_product_tag_cloud .tagcloud a:hover,
+     .block-deal .yith-wcwl-add-to-wishlist .yith-wcwl-add-button:hover,
+    .block-deal .yith-wcwl-add-to-wishlist .yith-wcwl-wishlistaddedbrowse a:hover,
+    .block-deal .yith-wcwl-add-to-wishlist .yith-wcwl-wishlistexistsbrowse a:hover
+    {
+        border-color: #ff3366;
+
+    }
+    body .product-list li .add-to-cart:hover,
+    body .products-style8 .product-thumb .yith-wcqv-button,
+    body .lasttest-blog11 .item-blog .cat{
+        background-color: rgba( 255, 51, 102, 0.5)
+    }
+    body .option11.featured-banner .box-small-banner .banner:before{
+        background-color: rgba( 255, 51, 102, 0.8);
+    }
+    .product-style4 .add_to_cart_button, .product-style4 .added_to_cart{
+        background-color: rgba( 255, 51, 102, 0.7);
+    }
+    body .product-list li .content_price,
+    body.woocommerce div.product p.price,
+    body.woocommerce div.product span.price,
+    body .cart-block .cart-block-content .product-info .p-right .p-rice,
+    .woocommerce div.product p.price, 
+    .woocommerce div.product span.price,
+    body .vertical-menu-list .mega-product .price,
+    .option12.tab-7.block-tab-category .product-style3 .price,
+    .option12.block-hotdeal-week .price,
+    .block-new-product12 .price,
+    .option-13 .product-style3 .content_price .price,
+    .option-14 .block-deal .price,
+    .block-deal .price,
+    .product-style4 .price,
+    .option-14.block-static .price,
+    .woocommerce div.product form.cart .group_table .price{
+        color: #ff3366
+    }    body .box-vertical-megamenus .vertical-menu-content{
+        background-color: #fff;
+    }
+    body .box-vertical-megamenus .all-category span:hover{
+        border-color: #ff3366;
+        color: #fff;
+    }
+    body .box-vertical-megamenus .vertical-menu-list>li:hover,
+    body .box-vertical-megamenus .all-category span:hover{
+        background-color: #ff3366;
+    }
+    body .box-vertical-megamenus .vertical-menu-list>li>a{
+        color: #666;
+    }
+    body .box-vertical-megamenus .vertical-menu-list>li:hover>a,
+    body .box-vertical-megamenus .vertical-menu-list>li:hover>a:before{
+        color: #fff
+    }    .header.style2 .top-header{
+        background-color: #f6f6f6;
+        color:#666;
+    }
+    .header.style2 .top-bar-menu>li>a{
+        color:#666;
+    }
+    .header.style2 .top-bar-menu>li>a:hover{
+        color:#4c311d;
+    }
+    .header.style2 .box-vertical-megamenus .title{
+        background-color: #4c311d;
+        color:#fff;
+    }
+    body .top-main-menu.style2 .main-menu-wapper{
+        background-color: #958457;
+    }
+    .header.style2 .top-main-menu.style2 .navigation-main-menu>li:hover, 
+    .header.style2 .top-main-menu.style2 .navigation-main-menu>li.active{
+        background-color: #ab9d77;
+    }
+    .header.style2 .top-main-menu.style2 .navigation-main-menu>li>a{
+        color: #fff;
+    }
+    .header.style2 .navigation-main-menu>li:hover>a, 
+    .header.style2 .navigation-main-menu>li.active>a{
+        color: #fff;
+    }
+    .header.style2 .nav-top-menu.nav-ontop{
+        background-color: #958457;
+    }
